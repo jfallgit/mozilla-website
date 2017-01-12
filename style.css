@@ -27,8 +27,9 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
-h1#title{
-	color:green;
+img {
+  display: block;
+  margin: 0 auto;
 }
 
 .quote{
