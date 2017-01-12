@@ -21,10 +21,10 @@ body {
 }
 
 h1 {
-  margin: 0 auto;
-  padding: 20px 0;    
+  padding: 20px 0 0 0;    
   color: #EE00D3;
   text-shadow: 3px 3px 1px black;
+  text-align: center;
 }
 
 img {
@@ -33,7 +33,7 @@ img {
 }
 
 .quote{
-	color:gray;
+	color: gray;
 }
 
 #mainQuote {
