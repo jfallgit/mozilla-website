@@ -7,3 +7,15 @@ p {
 li,h1 {
 	color: red;
 }
+
+html{
+	background-color: cyan;
+}
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #19FFAE;
+  padding: 0 40px 40px 40px;
+  border: 50px solid #AE00AE;
+}
