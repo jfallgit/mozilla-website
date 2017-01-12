@@ -24,7 +24,7 @@ h1 {
   margin: 0;
   padding: 20px 0;    
   color: #EE00D3;
-  text-shadow: 3px 3px 1px #EE00FF;
+  text-shadow: 3px 3px 1px black;
 }
 
 h1#title{
@@ -37,4 +37,8 @@ h1#title{
 
 #mainQuote {
 	color: black;
+}
+
+#dogQuote {
+	color: #FF00A5;
 }
